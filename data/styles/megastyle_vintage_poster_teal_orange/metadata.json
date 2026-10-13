@@ -1,0 +1,116 @@
+{
+  "task_id": "megastyle_vintage_poster_teal_orange",
+  "source_dataset": "tencent/MegaStyle-1.4M",
+  "source_root": "datasets/MegaStyle-1.4M",
+  "style_label": "vintage poster teal orange",
+  "style_prompt": "In the style of vintage poster art, teal with orange, yellow, and black in bold flat distribution, even light, digital illustration, smooth surface with subtle edge wear, clean sharp lines and solid fills.",
+  "sample_count": 8,
+  "source_indices": [
+    6312,
+    6313,
+    6314,
+    6315,
+    6316,
+    6317,
+    6318,
+    6319
+  ],
+  "samples": [
+    {
+      "ordinal": 0,
+      "file": "target_images/00.jpg",
+      "source_file": "train-00000.parquet",
+      "source_row_group": 63,
+      "source_row_offset": 12,
+      "global_index": 6312,
+      "id": "s172651_c96676",
+      "source_image_path": "s172651_c96676.jpg",
+      "content": "Hot air balloons float over pagoda landscape",
+      "style": "In the style of vintage poster art, teal with orange, yellow, and black in bold flat distribution, even light, digital illustration, smooth surface with subtle edge wear, clean sharp lines and solid fills."
+    },
+    {
+      "ordinal": 1,
+      "file": "target_images/01.jpg",
+      "source_file": "train-00000.parquet",
+      "source_row_group": 63,
+      "source_row_offset": 13,
+      "global_index": 6313,
+      "id": "s172651_c370223",
+      "source_image_path": "s172651_c370223.jpg",
+      "content": "Woman in kitchen with crossed arms",
+      "style": "In the style of vintage poster art, teal with orange, yellow, and black in bold flat distribution, even light, digital illustration, smooth surface with subtle edge wear, clean sharp lines and solid fills."
+    },
+    {
+      "ordinal": 2,
+      "file": "target_images/02.jpg",
+      "source_file": "train-00000.parquet",
+      "source_row_group": 63,
+      "source_row_offset": 14,
+      "global_index": 6314,
+      "id": "s172651_c285720",
+      "source_image_path": "s172651_c285720.jpg",
+      "content": "Text yMÖ centered on green background",
+      "style": "In the style of vintage poster art, teal with orange, yellow, and black in bold flat distribution, even light, digital illustration, smooth surface with subtle edge wear, clean sharp lines and solid fills."
+    },
+    {
+      "ordinal": 3,
+      "file": "target_images/03.jpg",
+      "source_file": "train-00000.parquet",
+      "source_row_group": 63,
+      "source_row_offset": 15,
+      "global_index": 6315,
+      "id": "s172651_c53044",
+      "source_image_path": "s172651_c53044.jpg",
+      "content": "Ruined city street wrecked car towers shadow",
+      "style": "In the style of vintage poster art, teal with orange, yellow, and black in bold flat distribution, even light, digital illustration, smooth surface with subtle edge wear, clean sharp lines and solid fills."
+    },
+    {
+      "ordinal": 4,
+      "file": "target_images/04.jpg",
+      "source_file": "train-00000.parquet",
+      "source_row_group": 63,
+      "source_row_offset": 16,
+      "global_index": 6316,
+      "id": "s172651_c297311",
+      "source_image_path": "s172651_c297311.jpg",
+      "content": "Men stand on football pitch Charlton Athletic",
+      "style": "In the style of vintage poster art, teal with orange, yellow, and black in bold flat distribution, even light, digital illustration, smooth surface with subtle edge wear, clean sharp lines and solid fills."
+    },
+    {
+      "ordinal": 5,
+      "file": "target_images/05.jpg",
+      "source_file": "train-00000.parquet",
+      "source_row_group": 63,
+      "source_row_offset": 17,
+      "global_index": 6317,
+      "id": "s172651_c21528",
+      "source_image_path": "s172651_c21528.jpg",
+      "content": "Man rows gripping handle feet secured",
+      "style": "In the style of vintage poster art, teal with orange, yellow, and black in bold flat distribution, even light, digital illustration, smooth surface with subtle edge wear, clean sharp lines and solid fills."
+    },
+    {
+      "ordinal": 6,
+      "file": "target_images/06.jpg",
+      "source_file": "train-00000.parquet",
+      "source_row_group": 63,
+      "source_row_offset": 18,
+      "global_index": 6318,
+      "id": "s172651_c344876",
+      "source_image_path": "s172651_c344876.jpg",
+      "content": "Figure with cat ears holds weapon diagonally",
+      "style": "In the style of vintage poster art, teal with orange, yellow, and black in bold flat distribution, even light, digital illustration, smooth surface with subtle edge wear, clean sharp lines and solid fills."
+    },
+    {
+      "ordinal": 7,
+      "file": "target_images/07.jpg",
+      "source_file": "train-00000.parquet",
+      "source_row_group": 63,
+      "source_row_offset": 19,
+      "global_index": 6319,
+      "id": "s172651_c175340",
+      "source_image_path": "s172651_c175340.jpg",
+      "content": "Woman in profile holds golden statuette",
+      "style": "In the style of vintage poster art, teal with orange, yellow, and black in bold flat distribution, even light, digital illustration, smooth surface with subtle edge wear, clean sharp lines and solid fills."
+    }
+  ]
+}

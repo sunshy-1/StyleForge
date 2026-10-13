@@ -1,0 +1,116 @@
+{
+  "task_id": "megastyle_linocut_black_white",
+  "source_dataset": "tencent/MegaStyle-1.4M",
+  "source_root": "datasets/MegaStyle-1.4M",
+  "style_label": "linocut black white",
+  "style_prompt": "In the style of linocut print, black with white in high-contrast distribution, stark light, woodcut medium, dense line work with sharp edges, fine and bold strokes in varied directions creating layered depth.",
+  "sample_count": 8,
+  "source_indices": [
+    15560,
+    15561,
+    15562,
+    15563,
+    15564,
+    15565,
+    15566,
+    15567
+  ],
+  "samples": [
+    {
+      "ordinal": 0,
+      "file": "target_images/00.jpg",
+      "source_file": "train-00000.parquet",
+      "source_row_group": 155,
+      "source_row_offset": 60,
+      "global_index": 15560,
+      "id": "s58598_c69913",
+      "source_image_path": "s58598_c69913.jpg",
+      "content": "Vehicle hovers over urban skyline structures",
+      "style": "In the style of linocut print, black with white in high-contrast distribution, stark light, woodcut medium, dense line work with sharp edges, fine and bold strokes in varied directions creating layered depth."
+    },
+    {
+      "ordinal": 1,
+      "file": "target_images/01.jpg",
+      "source_file": "train-00000.parquet",
+      "source_row_group": 155,
+      "source_row_offset": 61,
+      "global_index": 15561,
+      "id": "s58598_c120098",
+      "source_image_path": "s58598_c120098.jpg",
+      "content": "Fox profile in snow with snowflakes",
+      "style": "In the style of linocut print, black with white in high-contrast distribution, stark light, woodcut medium, dense line work with sharp edges, fine and bold strokes in varied directions creating layered depth."
+    },
+    {
+      "ordinal": 2,
+      "file": "target_images/02.jpg",
+      "source_file": "train-00000.parquet",
+      "source_row_group": 155,
+      "source_row_offset": 62,
+      "global_index": 15562,
+      "id": "s58598_c56410",
+      "source_image_path": "s58598_c56410.jpg",
+      "content": "Tall buildings line street with palm trees",
+      "style": "In the style of linocut print, black with white in high-contrast distribution, stark light, woodcut medium, dense line work with sharp edges, fine and bold strokes in varied directions creating layered depth."
+    },
+    {
+      "ordinal": 3,
+      "file": "target_images/03.jpg",
+      "source_file": "train-00000.parquet",
+      "source_row_group": 155,
+      "source_row_offset": 63,
+      "global_index": 15563,
+      "id": "s58598_c204330",
+      "source_image_path": "s58598_c204330.jpg",
+      "content": "Kitchen island sink appliance skylight light",
+      "style": "In the style of linocut print, black with white in high-contrast distribution, stark light, woodcut medium, dense line work with sharp edges, fine and bold strokes in varied directions creating layered depth."
+    },
+    {
+      "ordinal": 4,
+      "file": "target_images/04.jpg",
+      "source_file": "train-00000.parquet",
+      "source_row_group": 155,
+      "source_row_offset": 64,
+      "global_index": 15564,
+      "id": "s58598_c136358",
+      "source_image_path": "s58598_c136358.jpg",
+      "content": "Bird profile head neck against background",
+      "style": "In the style of linocut print, black with white in high-contrast distribution, stark light, woodcut medium, dense line work with sharp edges, fine and bold strokes in varied directions creating layered depth."
+    },
+    {
+      "ordinal": 5,
+      "file": "target_images/05.jpg",
+      "source_file": "train-00000.parquet",
+      "source_row_group": 155,
+      "source_row_offset": 65,
+      "global_index": 15565,
+      "id": "s58598_c303371",
+      "source_image_path": "s58598_c303371.jpg",
+      "content": "Man and woman smile facing each other Eiffel Tower",
+      "style": "In the style of linocut print, black with white in high-contrast distribution, stark light, woodcut medium, dense line work with sharp edges, fine and bold strokes in varied directions creating layered depth."
+    },
+    {
+      "ordinal": 6,
+      "file": "target_images/06.jpg",
+      "source_file": "train-00000.parquet",
+      "source_row_group": 155,
+      "source_row_offset": 66,
+      "global_index": 15566,
+      "id": "s58598_c318932",
+      "source_image_path": "s58598_c318932.jpg",
+      "content": "Person with wavy hair earring chain",
+      "style": "In the style of linocut print, black with white in high-contrast distribution, stark light, woodcut medium, dense line work with sharp edges, fine and bold strokes in varied directions creating layered depth."
+    },
+    {
+      "ordinal": 7,
+      "file": "target_images/07.jpg",
+      "source_file": "train-00000.parquet",
+      "source_row_group": 155,
+      "source_row_offset": 67,
+      "global_index": 15567,
+      "id": "s58598_c227477",
+      "source_image_path": "s58598_c227477.jpg",
+      "content": "Truck on path rocky outcrop behind",
+      "style": "In the style of linocut print, black with white in high-contrast distribution, stark light, woodcut medium, dense line work with sharp edges, fine and bold strokes in varied directions creating layered depth."
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "task_id": "megastyle_digital_fantasy_illustration",
+  "source_dataset": "tencent/MegaStyle-1.4M",
+  "source_root": "datasets/MegaStyle-1.4M",
+  "style_label": "digital fantasy illustration",
+  "style_prompt": "In the style of digital fantasy illustration, gold and blue with white and black in high-contrast distribution, dramatic backlighting, digital painting, metallic and smooth textures with reflective highlights, precise and clean brushwork.",
+  "sample_count": 8,
+  "source_indices": [
+    136,
+    137,
+    138,
+    139,
+    140,
+    141,
+    142,
+    143
+  ],
+  "samples": [
+    {
+      "ordinal": 0,
+      "file": "target_images/00.jpg",
+      "source_file": "train-00000.parquet",
+      "source_row_group": 1,
+      "source_row_offset": 36,
+      "global_index": 136,
+      "id": "s111600_c145589",
+      "source_image_path": "s111600_c145589.jpg",
+      "content": "Structure rises above platform vehicle surrounded by airborne vehicles cityscape behind",
+      "style": "In the style of digital fantasy illustration, gold and blue with white and black in high-contrast distribution, dramatic backlighting, digital painting, metallic and smooth textures with reflective highlights, precise and clean brushwork."
+    },
+    {
+      "ordinal": 1,
+      "file": "target_images/01.jpg",
+      "source_file": "train-00000.parquet",
+      "source_row_group": 1,
+      "source_row_offset": 37,
+      "global_index": 137,
+      "id": "s111600_c203395",
+      "source_image_path": "s111600_c203395.jpg",
+      "content": "Shelves hold dishes above sink window plant countertop apples jars flowers vegetables hanging lights",
+      "style": "In the style of digital fantasy illustration, gold and blue with white and black in high-contrast distribution, dramatic backlighting, digital painting, metallic and smooth textures with reflective highlights, precise and clean brushwork."
+    },
+    {
+      "ordinal": 2,
+      "file": "target_images/02.jpg",
+      "source_file": "train-00000.parquet",
+      "source_row_group": 1,
+      "source_row_offset": 38,
+      "global_index": 138,
+      "id": "s111600_c80893",
+      "source_image_path": "s111600_c80893.jpg",
+      "content": "Boy stands foreground men carry flags procession",
+      "style": "In the style of digital fantasy illustration, gold and blue with white and black in high-contrast distribution, dramatic backlighting, digital painting, metallic and smooth textures with reflective highlights, precise and clean brushwork."
+    },
+    {
+      "ordinal": 3,
+      "file": "target_images/03.jpg",
+      "source_file": "train-00000.parquet",
+      "source_row_group": 1,
+      "source_row_offset": 39,
+      "global_index": 139,
+      "id": "s111600_c361476",
+      "source_image_path": "s111600_c361476.jpg",
+      "content": "Woman stands in swimsuit arms bent",
+      "style": "In the style of digital fantasy illustration, gold and blue with white and black in high-contrast distribution, dramatic backlighting, digital painting, metallic and smooth textures with reflective highlights, precise and clean brushwork."
+    },
+    {
+      "ordinal": 4,
+      "file": "target_images/04.jpg",
+      "source_file": "train-00000.parquet",
+      "source_row_group": 1,
+      "source_row_offset": 40,
+      "global_index": 140,
+      "id": "s111600_c339744",
+      "source_image_path": "s111600_c339744.jpg",
+      "content": "Center diamond flanked by channel-set stones",
+      "style": "In the style of digital fantasy illustration, gold and blue with white and black in high-contrast distribution, dramatic backlighting, digital painting, metallic and smooth textures with reflective highlights, precise and clean brushwork."
+    },
+    {
+      "ordinal": 5,
+      "file": "target_images/05.jpg",
+      "source_file": "train-00000.parquet",
+      "source_row_group": 1,
+      "source_row_offset": 41,
+      "global_index": 141,
+      "id": "s111600_c311789",
+      "source_image_path": "s111600_c311789.jpg",
+      "content": "woman child walk tall columns space",
+      "style": "In the style of digital fantasy illustration, gold and blue with white and black in high-contrast distribution, dramatic backlighting, digital painting, metallic and smooth textures with reflective highlights, precise and clean brushwork."
+    },
+    {
+      "ordinal": 6,
+      "file": "target_images/06.jpg",
+      "source_file": "train-00000.parquet",
+      "source_row_group": 1,
+      "source_row_offset": 42,
+      "global_index": 142,
+      "id": "s111600_c84422",
+      "source_image_path": "s111600_c84422.jpg",
+      "content": "Bowl raspberries left pitcher surface",
+      "style": "In the style of digital fantasy illustration, gold and blue with white and black in high-contrast distribution, dramatic backlighting, digital painting, metallic and smooth textures with reflective highlights, precise and clean brushwork."
+    },
+    {
+      "ordinal": 7,
+      "file": "target_images/07.jpg",
+      "source_file": "train-00000.parquet",
+      "source_row_group": 1,
+      "source_row_offset": 43,
+      "global_index": 143,
+      "id": "s111600_c176789",
+      "source_image_path": "s111600_c176789.jpg",
+      "content": "Men in suits stand with Golden Globe trophy",
+      "style": "In the style of digital fantasy illustration, gold and blue with white and black in high-contrast distribution, dramatic backlighting, digital painting, metallic and smooth textures with reflective highlights, precise and clean brushwork."
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+__pycache__/
+*.py[cod]
+
+# Generated image and evaluation results stay under outputs/.
+runs/
+figures/
+outputs/*
+!outputs/.gitkeep
+checkpoint/
+data/flux_training/
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.pdf
+*.jsonl
+*.log
+*.metadata.json
+
+# The bundled reference images are intentional inputs, not generated outputs.
+!data/
+!data/styles/
+!data/styles/**/
+!data/styles/**/*.jpg
+!data/styles/**/*.jpeg
+!data/styles/**/*.png
+!data/styles/**/*.webp
+
+# Local credentials and model/cache directories.
+.env
+.env.*
+*.safetensors
+*.ckpt
+*.pt
+*.pth
+models/*
+!models/.gitkeep
+!models/*/
+models/*/*
+!models/*/.gitkeep
+cache/
+
+# Keep empty runtime placeholders while ignoring downloaded weights.
+!checkpoint/
+!checkpoint/**/
+!checkpoint/**/.gitkeep
+training_based_baselines/checkpoints/*
+!training_based_baselines/checkpoints/.gitkeep
+!training_based_baselines/checkpoints/*/
+training_based_baselines/checkpoints/*/*
+!training_based_baselines/checkpoints/*/.gitkeep

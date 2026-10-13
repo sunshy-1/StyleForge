@@ -1,0 +1,38 @@
+{
+  "content_prompts": [
+    "a portrait of a young woman with curly hair",
+    "a red fox sitting in a forest clearing",
+    "a mountain range at sunrise with a lake",
+    "a cozy lounge interior with a sofa and bookshelf",
+    "a bowl of ramen with egg and vegetables",
+    "a vintage car parked on a city street",
+    "a market stall full of fruits and flowers",
+    "a single ceramic teapot on a plain surface",
+    "a wide city avenue at dusk with a few tiny distant figures walking, wide view",
+    "a vast open wheat field under a big cloudy sky, wide landscape view",
+    "an arrangement of books, a candle, and dried flowers on a wooden table, medium-wide still life",
+    "a quiet fishing harbor with small boats and a lone distant figure on the dock, wide view",
+    "a misty forest trail winding between tall trees, wide view",
+    "a single antique clock resting on a shelf, close still-life view",
+    "a small mountain village with clustered rooftops seen from far away, wide view",
+    "a desert dune landscape at golden hour with a tiny distant caravan, wide view"
+  ],
+  "scene_keys": [
+    "s1_portrait",
+    "s2_animal",
+    "s3_landscape",
+    "s4_interior",
+    "s5_food",
+    "s6_vehicle",
+    "s7_multi",
+    "s8_single",
+    "s9_street_distant",
+    "s10_field",
+    "s11_still_life",
+    "s12_harbor",
+    "s13_forest_path",
+    "s14_still_object",
+    "s15_mountain_village",
+    "s16_desert"
+  ]
+}

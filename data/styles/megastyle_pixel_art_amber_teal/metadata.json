@@ -1,0 +1,116 @@
+{
+  "task_id": "megastyle_pixel_art_amber_teal",
+  "source_dataset": "tencent/MegaStyle-1.4M",
+  "source_root": "datasets/MegaStyle-1.4M",
+  "style_label": "pixel art amber teal",
+  "style_prompt": "In the style of pixel art, warm amber with muted teal in balanced distribution, directional light casting soft gradients, digital rendering, blocky texture with layered density, sharp-edged strokes in uniform width and straight direction.",
+  "sample_count": 8,
+  "source_indices": [
+    6408,
+    6409,
+    6410,
+    6411,
+    6412,
+    6413,
+    6414,
+    6415
+  ],
+  "samples": [
+    {
+      "ordinal": 0,
+      "file": "target_images/00.jpg",
+      "source_file": "train-00000.parquet",
+      "source_row_group": 64,
+      "source_row_offset": 8,
+      "global_index": 6408,
+      "id": "s20370_c109865",
+      "source_image_path": "s20370_c109865.jpg",
+      "content": "Elderly man in suit jacket bow tie",
+      "style": "In the style of pixel art, warm amber with muted teal in balanced distribution, directional light casting soft gradients, digital rendering, blocky texture with layered density, sharp-edged strokes in uniform width and straight direction."
+    },
+    {
+      "ordinal": 1,
+      "file": "target_images/01.jpg",
+      "source_file": "train-00000.parquet",
+      "source_row_group": 64,
+      "source_row_offset": 9,
+      "global_index": 6409,
+      "id": "s20370_c163034",
+      "source_image_path": "s20370_c163034.jpg",
+      "content": "Person on tightrope between cliffs observed",
+      "style": "In the style of pixel art, warm amber with muted teal in balanced distribution, directional light casting soft gradients, digital rendering, blocky texture with layered density, sharp-edged strokes in uniform width and straight direction."
+    },
+    {
+      "ordinal": 2,
+      "file": "target_images/02.jpg",
+      "source_file": "train-00000.parquet",
+      "source_row_group": 64,
+      "source_row_offset": 10,
+      "global_index": 6410,
+      "id": "s20370_c397153",
+      "source_image_path": "s20370_c397153.jpg",
+      "content": "Two burgers on wooden surface parchment paper",
+      "style": "In the style of pixel art, warm amber with muted teal in balanced distribution, directional light casting soft gradients, digital rendering, blocky texture with layered density, sharp-edged strokes in uniform width and straight direction."
+    },
+    {
+      "ordinal": 3,
+      "file": "target_images/03.jpg",
+      "source_file": "train-00000.parquet",
+      "source_row_group": 64,
+      "source_row_offset": 11,
+      "global_index": 6411,
+      "id": "s20370_c324202",
+      "source_image_path": "s20370_c324202.jpg",
+      "content": "Person in high collar garment with cape",
+      "style": "In the style of pixel art, warm amber with muted teal in balanced distribution, directional light casting soft gradients, digital rendering, blocky texture with layered density, sharp-edged strokes in uniform width and straight direction."
+    },
+    {
+      "ordinal": 4,
+      "file": "target_images/04.jpg",
+      "source_file": "train-00000.parquet",
+      "source_row_group": 64,
+      "source_row_offset": 12,
+      "global_index": 6412,
+      "id": "s20370_c29194",
+      "source_image_path": "s20370_c29194.jpg",
+      "content": "Fence crosses snow with dune behind",
+      "style": "In the style of pixel art, warm amber with muted teal in balanced distribution, directional light casting soft gradients, digital rendering, blocky texture with layered density, sharp-edged strokes in uniform width and straight direction."
+    },
+    {
+      "ordinal": 5,
+      "file": "target_images/05.jpg",
+      "source_file": "train-00000.parquet",
+      "source_row_group": 64,
+      "source_row_offset": 13,
+      "global_index": 6413,
+      "id": "s20370_c255681",
+      "source_image_path": "s20370_c255681.jpg",
+      "content": "Tent in snowy field with mountains",
+      "style": "In the style of pixel art, warm amber with muted teal in balanced distribution, directional light casting soft gradients, digital rendering, blocky texture with layered density, sharp-edged strokes in uniform width and straight direction."
+    },
+    {
+      "ordinal": 6,
+      "file": "target_images/06.jpg",
+      "source_file": "train-00000.parquet",
+      "source_row_group": 64,
+      "source_row_offset": 14,
+      "global_index": 6414,
+      "id": "s20370_c232692",
+      "source_image_path": "s20370_c232692.jpg",
+      "content": "Door with knocker in stone archway",
+      "style": "In the style of pixel art, warm amber with muted teal in balanced distribution, directional light casting soft gradients, digital rendering, blocky texture with layered density, sharp-edged strokes in uniform width and straight direction."
+    },
+    {
+      "ordinal": 7,
+      "file": "target_images/07.jpg",
+      "source_file": "train-00000.parquet",
+      "source_row_group": 64,
+      "source_row_offset": 15,
+      "global_index": 6415,
+      "id": "s20370_c368376",
+      "source_image_path": "s20370_c368376.jpg",
+      "content": "Woman stands in suit with arm bent",
+      "style": "In the style of pixel art, warm amber with muted teal in balanced distribution, directional light casting soft gradients, digital rendering, blocky texture with layered density, sharp-edged strokes in uniform width and straight direction."
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "task_id": "megastyle_mid_century_paper_collage",
+  "source_dataset": "tencent/MegaStyle-1.4M",
+  "source_root": "datasets/MegaStyle-1.4M",
+  "style_label": "mid-century paper collage",
+  "style_prompt": "In the style of mid-century modern illustration, bold red, blue, and orange with white in geometric distribution, high-contrast light, layered paper collage, textured with surface roughness and density, sharp-edged strokes with directional lines.",
+  "sample_count": 8,
+  "source_indices": [
+    1072,
+    1073,
+    1074,
+    1075,
+    1076,
+    1077,
+    1078,
+    1079
+  ],
+  "samples": [
+    {
+      "ordinal": 0,
+      "file": "target_images/00.jpg",
+      "source_file": "train-00000.parquet",
+      "source_row_group": 10,
+      "source_row_offset": 72,
+      "global_index": 1072,
+      "id": "s14364_c82836",
+      "source_image_path": "s14364_c82836.jpg",
+      "content": "Flag hangs above fountain in spacious hall",
+      "style": "In the style of mid-century modern illustration, bold red, blue, and orange with white in geometric distribution, high-contrast light, layered paper collage, textured with surface roughness and density, sharp-edged strokes with directional lines."
+    },
+    {
+      "ordinal": 1,
+      "file": "target_images/01.jpg",
+      "source_file": "train-00000.parquet",
+      "source_row_group": 10,
+      "source_row_offset": 73,
+      "global_index": 1073,
+      "id": "s14364_c138893",
+      "source_image_path": "s14364_c138893.jpg",
+      "content": "Roses at different bloom stages with leaves",
+      "style": "In the style of mid-century modern illustration, bold red, blue, and orange with white in geometric distribution, high-contrast light, layered paper collage, textured with surface roughness and density, sharp-edged strokes with directional lines."
+    },
+    {
+      "ordinal": 2,
+      "file": "target_images/02.jpg",
+      "source_file": "train-00000.parquet",
+      "source_row_group": 10,
+      "source_row_offset": 74,
+      "global_index": 1074,
+      "id": "s14364_c379405",
+      "source_image_path": "s14364_c379405.jpg",
+      "content": "Four men stand side by side cigarettes jacket",
+      "style": "In the style of mid-century modern illustration, bold red, blue, and orange with white in geometric distribution, high-contrast light, layered paper collage, textured with surface roughness and density, sharp-edged strokes with directional lines."
+    },
+    {
+      "ordinal": 3,
+      "file": "target_images/03.jpg",
+      "source_file": "train-00000.parquet",
+      "source_row_group": 10,
+      "source_row_offset": 75,
+      "global_index": 1075,
+      "id": "s14364_c93505",
+      "source_image_path": "s14364_c93505.jpg",
+      "content": "Woman sits with girls toys books",
+      "style": "In the style of mid-century modern illustration, bold red, blue, and orange with white in geometric distribution, high-contrast light, layered paper collage, textured with surface roughness and density, sharp-edged strokes with directional lines."
+    },
+    {
+      "ordinal": 4,
+      "file": "target_images/04.jpg",
+      "source_file": "train-00000.parquet",
+      "source_row_group": 10,
+      "source_row_offset": 76,
+      "global_index": 1076,
+      "id": "s14364_c57118",
+      "source_image_path": "s14364_c57118.jpg",
+      "content": "Street flanked by buildings bus people trees",
+      "style": "In the style of mid-century modern illustration, bold red, blue, and orange with white in geometric distribution, high-contrast light, layered paper collage, textured with surface roughness and density, sharp-edged strokes with directional lines."
+    },
+    {
+      "ordinal": 5,
+      "file": "target_images/05.jpg",
+      "source_file": "train-00000.parquet",
+      "source_row_group": 10,
+      "source_row_offset": 77,
+      "global_index": 1077,
+      "id": "s14364_c307602",
+      "source_image_path": "s14364_c307602.jpg",
+      "content": "Person walks carrying stack on head",
+      "style": "In the style of mid-century modern illustration, bold red, blue, and orange with white in geometric distribution, high-contrast light, layered paper collage, textured with surface roughness and density, sharp-edged strokes with directional lines."
+    },
+    {
+      "ordinal": 6,
+      "file": "target_images/06.jpg",
+      "source_file": "train-00000.parquet",
+      "source_row_group": 10,
+      "source_row_offset": 78,
+      "global_index": 1078,
+      "id": "s14364_c286944",
+      "source_image_path": "s14364_c286944.jpg",
+      "content": "Bride groom hold hands snow park",
+      "style": "In the style of mid-century modern illustration, bold red, blue, and orange with white in geometric distribution, high-contrast light, layered paper collage, textured with surface roughness and density, sharp-edged strokes with directional lines."
+    },
+    {
+      "ordinal": 7,
+      "file": "target_images/07.jpg",
+      "source_file": "train-00000.parquet",
+      "source_row_group": 10,
+      "source_row_offset": 79,
+      "global_index": 1079,
+      "id": "s14364_c181685",
+      "source_image_path": "s14364_c181685.jpg",
+      "content": "Woman sits on ornate bench near window",
+      "style": "In the style of mid-century modern illustration, bold red, blue, and orange with white in geometric distribution, high-contrast light, layered paper collage, textured with surface roughness and density, sharp-edged strokes with directional lines."
+    }
+  ]
+}

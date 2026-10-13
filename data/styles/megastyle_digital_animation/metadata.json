@@ -1,0 +1,116 @@
+{
+  "task_id": "megastyle_digital_animation",
+  "source_dataset": "tencent/MegaStyle-1.4M",
+  "source_root": "datasets/MegaStyle-1.4M",
+  "style_label": "digital animation",
+  "style_prompt": "In the style of digital animation, cool blue and white with warm orange in balanced distribution, dramatic directional light, 3D rendered medium, smooth surfaces with high reflectivity, clean and precise edges.",
+  "sample_count": 8,
+  "source_indices": [
+    72,
+    73,
+    74,
+    75,
+    76,
+    77,
+    78,
+    79
+  ],
+  "samples": [
+    {
+      "ordinal": 0,
+      "file": "target_images/00.jpg",
+      "source_file": "train-00000.parquet",
+      "source_row_group": 0,
+      "source_row_offset": 72,
+      "global_index": 72,
+      "id": "s69639_c8566",
+      "source_image_path": "s69639_c8566.jpg",
+      "content": "Man woman on sailboat taking selfie",
+      "style": "In the style of digital animation, cool blue and white with warm orange in balanced distribution, dramatic directional light, 3D rendered medium, smooth surfaces with high reflectivity, clean and precise edges."
+    },
+    {
+      "ordinal": 1,
+      "file": "target_images/01.jpg",
+      "source_file": "train-00000.parquet",
+      "source_row_group": 0,
+      "source_row_offset": 73,
+      "global_index": 73,
+      "id": "s69639_c280068",
+      "source_image_path": "s69639_c280068.jpg",
+      "content": "Children offer fish to pelican in bathtub",
+      "style": "In the style of digital animation, cool blue and white with warm orange in balanced distribution, dramatic directional light, 3D rendered medium, smooth surfaces with high reflectivity, clean and precise edges."
+    },
+    {
+      "ordinal": 2,
+      "file": "target_images/02.jpg",
+      "source_file": "train-00000.parquet",
+      "source_row_group": 0,
+      "source_row_offset": 74,
+      "global_index": 74,
+      "id": "s69639_c369450",
+      "source_image_path": "s69639_c369450.jpg",
+      "content": "Woman in gown near window adjusts hair",
+      "style": "In the style of digital animation, cool blue and white with warm orange in balanced distribution, dramatic directional light, 3D rendered medium, smooth surfaces with high reflectivity, clean and precise edges."
+    },
+    {
+      "ordinal": 3,
+      "file": "target_images/03.jpg",
+      "source_file": "train-00000.parquet",
+      "source_row_group": 0,
+      "source_row_offset": 75,
+      "global_index": 75,
+      "id": "s69639_c324035",
+      "source_image_path": "s69639_c324035.jpg",
+      "content": "Character stands with hands on hips cape swirls",
+      "style": "In the style of digital animation, cool blue and white with warm orange in balanced distribution, dramatic directional light, 3D rendered medium, smooth surfaces with high reflectivity, clean and precise edges."
+    },
+    {
+      "ordinal": 4,
+      "file": "target_images/04.jpg",
+      "source_file": "train-00000.parquet",
+      "source_row_group": 0,
+      "source_row_offset": 76,
+      "global_index": 76,
+      "id": "s69639_c86588",
+      "source_image_path": "s69639_c86588.jpg",
+      "content": "Person in kitchen holds pie rolls dough",
+      "style": "In the style of digital animation, cool blue and white with warm orange in balanced distribution, dramatic directional light, 3D rendered medium, smooth surfaces with high reflectivity, clean and precise edges."
+    },
+    {
+      "ordinal": 5,
+      "file": "target_images/05.jpg",
+      "source_file": "train-00000.parquet",
+      "source_row_group": 0,
+      "source_row_offset": 77,
+      "global_index": 77,
+      "id": "s69639_c347734",
+      "source_image_path": "s69639_c347734.jpg",
+      "content": "Water surrounded by cracked frozen landscape",
+      "style": "In the style of digital animation, cool blue and white with warm orange in balanced distribution, dramatic directional light, 3D rendered medium, smooth surfaces with high reflectivity, clean and precise edges."
+    },
+    {
+      "ordinal": 6,
+      "file": "target_images/06.jpg",
+      "source_file": "train-00000.parquet",
+      "source_row_group": 0,
+      "source_row_offset": 78,
+      "global_index": 78,
+      "id": "s69639_c338141",
+      "source_image_path": "s69639_c338141.jpg",
+      "content": "Bridge crowded with pedestrians overlooks city",
+      "style": "In the style of digital animation, cool blue and white with warm orange in balanced distribution, dramatic directional light, 3D rendered medium, smooth surfaces with high reflectivity, clean and precise edges."
+    },
+    {
+      "ordinal": 7,
+      "file": "target_images/07.jpg",
+      "source_file": "train-00000.parquet",
+      "source_row_group": 0,
+      "source_row_offset": 79,
+      "global_index": 79,
+      "id": "s69639_c363283",
+      "source_image_path": "s69639_c363283.jpg",
+      "content": "Man and woman hold hands on snowy street corner cafe sign",
+      "style": "In the style of digital animation, cool blue and white with warm orange in balanced distribution, dramatic directional light, 3D rendered medium, smooth surfaces with high reflectivity, clean and precise edges."
+    }
+  ]
+}

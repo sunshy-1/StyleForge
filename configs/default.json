@@ -1,0 +1,35 @@
+{
+  "dataset_root": "data/styles",
+  "output_root": "outputs",
+  "max_json_retries": 3,
+  "backend": {
+    "style_agent": "mock",
+    "critic": "mock",
+    "generator": "mock",
+    "vlm_max_tokens": 5200,
+    "vlm_timeout_s": 3600.0,
+    "vlm_request_retries": 2,
+    "vlm_stream": true,
+    "vlm_protocol": "openai",
+    "vlm_temperature": 0.0,
+    "vlm_response_format": false,
+    "vlm_image_max_side": 512,
+    "vlm_image_quality": 80,
+    "flux2_base_model": "",
+    "flux2_device": "",
+    "flux2_dtype": "auto",
+    "flux2_lora_path": "",
+    "flux2_adapter_name": "student",
+    "flux2_output_type": "",
+    "flux2_max_sequence_length": 1024
+  },
+  "generation": {
+    "width": 1024,
+    "height": 1024,
+    "steps": 4,
+    "guidance": 1.0,
+    "n": 1,
+    "base_seed": 1234,
+    "negative_prompt": ""
+  }
+}

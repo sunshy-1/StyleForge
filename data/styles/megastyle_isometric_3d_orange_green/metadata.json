@@ -1,0 +1,116 @@
+{
+  "task_id": "megastyle_isometric_3d_orange_green",
+  "source_dataset": "tencent/MegaStyle-1.4M",
+  "source_root": "datasets/MegaStyle-1.4M",
+  "style_label": "3D isometric orange green",
+  "style_prompt": "In the style of 3D isometric illustration, warm orange with green and cream in balanced distribution, soft directional light, digital rendering, smooth layered surfaces with subtle reflectivity, uniform edge hardness.",
+  "sample_count": 8,
+  "source_indices": [
+    2696,
+    2697,
+    2698,
+    2699,
+    2700,
+    2701,
+    2702,
+    2703
+  ],
+  "samples": [
+    {
+      "ordinal": 0,
+      "file": "target_images/00.jpg",
+      "source_file": "train-00000.parquet",
+      "source_row_group": 26,
+      "source_row_offset": 96,
+      "global_index": 2696,
+      "id": "s143107_c34568",
+      "source_image_path": "s143107_c34568.jpg",
+      "content": "Bridge spans water buildings mountains background",
+      "style": "In the style of 3D isometric illustration, warm orange with green and cream in balanced distribution, soft directional light, digital rendering, smooth layered surfaces with subtle reflectivity, uniform edge hardness."
+    },
+    {
+      "ordinal": 1,
+      "file": "target_images/01.jpg",
+      "source_file": "train-00000.parquet",
+      "source_row_group": 26,
+      "source_row_offset": 97,
+      "global_index": 2697,
+      "id": "s143107_c368440",
+      "source_image_path": "s143107_c368440.jpg",
+      "content": "Person in gown faces away on street",
+      "style": "In the style of 3D isometric illustration, warm orange with green and cream in balanced distribution, soft directional light, digital rendering, smooth layered surfaces with subtle reflectivity, uniform edge hardness."
+    },
+    {
+      "ordinal": 2,
+      "file": "target_images/02.jpg",
+      "source_file": "train-00000.parquet",
+      "source_row_group": 26,
+      "source_row_offset": 98,
+      "global_index": 2698,
+      "id": "s143107_c271052",
+      "source_image_path": "s143107_c271052.jpg",
+      "content": "Old man gestures across table to younger man",
+      "style": "In the style of 3D isometric illustration, warm orange with green and cream in balanced distribution, soft directional light, digital rendering, smooth layered surfaces with subtle reflectivity, uniform edge hardness."
+    },
+    {
+      "ordinal": 3,
+      "file": "target_images/03.jpg",
+      "source_file": "train-00000.parquet",
+      "source_row_group": 26,
+      "source_row_offset": 99,
+      "global_index": 2699,
+      "id": "s143107_c124067",
+      "source_image_path": "s143107_c124067.jpg",
+      "content": "Face close-up hair eye mouth",
+      "style": "In the style of 3D isometric illustration, warm orange with green and cream in balanced distribution, soft directional light, digital rendering, smooth layered surfaces with subtle reflectivity, uniform edge hardness."
+    },
+    {
+      "ordinal": 4,
+      "file": "target_images/04.jpg",
+      "source_file": "train-00000.parquet",
+      "source_row_group": 27,
+      "source_row_offset": 0,
+      "global_index": 2700,
+      "id": "s143107_c238827",
+      "source_image_path": "s143107_c238827.jpg",
+      "content": "Person holds umbrella near water with boats and birds",
+      "style": "In the style of 3D isometric illustration, warm orange with green and cream in balanced distribution, soft directional light, digital rendering, smooth layered surfaces with subtle reflectivity, uniform edge hardness."
+    },
+    {
+      "ordinal": 5,
+      "file": "target_images/05.jpg",
+      "source_file": "train-00000.parquet",
+      "source_row_group": 27,
+      "source_row_offset": 1,
+      "global_index": 2701,
+      "id": "s143107_c156941",
+      "source_image_path": "s143107_c156941.jpg",
+      "content": "Person stands in grass tree head lightning strikes",
+      "style": "In the style of 3D isometric illustration, warm orange with green and cream in balanced distribution, soft directional light, digital rendering, smooth layered surfaces with subtle reflectivity, uniform edge hardness."
+    },
+    {
+      "ordinal": 6,
+      "file": "target_images/06.jpg",
+      "source_file": "train-00000.parquet",
+      "source_row_group": 27,
+      "source_row_offset": 2,
+      "global_index": 2702,
+      "id": "s143107_c353934",
+      "source_image_path": "s143107_c353934.jpg",
+      "content": "Man in coat stands behind railing",
+      "style": "In the style of 3D isometric illustration, warm orange with green and cream in balanced distribution, soft directional light, digital rendering, smooth layered surfaces with subtle reflectivity, uniform edge hardness."
+    },
+    {
+      "ordinal": 7,
+      "file": "target_images/07.jpg",
+      "source_file": "train-00000.parquet",
+      "source_row_group": 27,
+      "source_row_offset": 3,
+      "global_index": 2703,
+      "id": "s143107_c352074",
+      "source_image_path": "s143107_c352074.jpg",
+      "content": "Person leans forward in dark setting",
+      "style": "In the style of 3D isometric illustration, warm orange with green and cream in balanced distribution, soft directional light, digital rendering, smooth layered surfaces with subtle reflectivity, uniform edge hardness."
+    }
+  ]
+}

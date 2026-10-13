@@ -1,0 +1,116 @@
+{
+  "task_id": "megastyle_graphic_black_red",
+  "source_dataset": "tencent/MegaStyle-1.4M",
+  "source_root": "datasets/MegaStyle-1.4M",
+  "style_label": "graphic illustration black red",
+  "style_prompt": "In the style of graphic illustration, black with red in high-contrast distribution, stark light, digital medium, layered density with dripping effect, sharp-edged brushwork with directional splatter and fine line detail.",
+  "sample_count": 8,
+  "source_indices": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "samples": [
+    {
+      "ordinal": 0,
+      "file": "target_images/00.jpg",
+      "source_file": "train-00000.parquet",
+      "source_row_group": 0,
+      "source_row_offset": 0,
+      "global_index": 0,
+      "id": "s78530_c309995",
+      "source_image_path": "s78530_c309995.jpg",
+      "content": "Person stands in flooded arches columns",
+      "style": "In the style of graphic illustration, black with red in high-contrast distribution, stark light, digital medium, layered density with dripping effect, sharp-edged brushwork with directional splatter and fine line detail."
+    },
+    {
+      "ordinal": 1,
+      "file": "target_images/01.jpg",
+      "source_file": "train-00000.parquet",
+      "source_row_group": 0,
+      "source_row_offset": 1,
+      "global_index": 1,
+      "id": "s78530_c311637",
+      "source_image_path": "s78530_c311637.jpg",
+      "content": "Man woman walk street cars buildings",
+      "style": "In the style of graphic illustration, black with red in high-contrast distribution, stark light, digital medium, layered density with dripping effect, sharp-edged brushwork with directional splatter and fine line detail."
+    },
+    {
+      "ordinal": 2,
+      "file": "target_images/02.jpg",
+      "source_file": "train-00000.parquet",
+      "source_row_group": 0,
+      "source_row_offset": 2,
+      "global_index": 2,
+      "id": "s78530_c159383",
+      "source_image_path": "s78530_c159383.jpg",
+      "content": "Muscular man crouched against wall",
+      "style": "In the style of graphic illustration, black with red in high-contrast distribution, stark light, digital medium, layered density with dripping effect, sharp-edged brushwork with directional splatter and fine line detail."
+    },
+    {
+      "ordinal": 3,
+      "file": "target_images/03.jpg",
+      "source_file": "train-00000.parquet",
+      "source_row_group": 0,
+      "source_row_offset": 3,
+      "global_index": 3,
+      "id": "s78530_c118343",
+      "source_image_path": "s78530_c118343.jpg",
+      "content": "Hillside slopes with stone wall tree sheep",
+      "style": "In the style of graphic illustration, black with red in high-contrast distribution, stark light, digital medium, layered density with dripping effect, sharp-edged brushwork with directional splatter and fine line detail."
+    },
+    {
+      "ordinal": 4,
+      "file": "target_images/04.jpg",
+      "source_file": "train-00000.parquet",
+      "source_row_group": 0,
+      "source_row_offset": 4,
+      "global_index": 4,
+      "id": "s78530_c73507",
+      "source_image_path": "s78530_c73507.jpg",
+      "content": "Fish among dense sea anemone tentacles",
+      "style": "In the style of graphic illustration, black with red in high-contrast distribution, stark light, digital medium, layered density with dripping effect, sharp-edged brushwork with directional splatter and fine line detail."
+    },
+    {
+      "ordinal": 5,
+      "file": "target_images/05.jpg",
+      "source_file": "train-00000.parquet",
+      "source_row_group": 0,
+      "source_row_offset": 5,
+      "global_index": 5,
+      "id": "s78530_c35925",
+      "source_image_path": "s78530_c35925.jpg",
+      "content": "Boat moored dock crates structures background",
+      "style": "In the style of graphic illustration, black with red in high-contrast distribution, stark light, digital medium, layered density with dripping effect, sharp-edged brushwork with directional splatter and fine line detail."
+    },
+    {
+      "ordinal": 6,
+      "file": "target_images/06.jpg",
+      "source_file": "train-00000.parquet",
+      "source_row_group": 0,
+      "source_row_offset": 6,
+      "global_index": 6,
+      "id": "s78530_c215425",
+      "source_image_path": "s78530_c215425.jpg",
+      "content": "Young person crouches near decaying figure",
+      "style": "In the style of graphic illustration, black with red in high-contrast distribution, stark light, digital medium, layered density with dripping effect, sharp-edged brushwork with directional splatter and fine line detail."
+    },
+    {
+      "ordinal": 7,
+      "file": "target_images/07.jpg",
+      "source_file": "train-00000.parquet",
+      "source_row_group": 0,
+      "source_row_offset": 7,
+      "global_index": 7,
+      "id": "s78530_c230371",
+      "source_image_path": "s78530_c230371.jpg",
+      "content": "SUVs parked side by side on salt flats",
+      "style": "In the style of graphic illustration, black with red in high-contrast distribution, stark light, digital medium, layered density with dripping effect, sharp-edged brushwork with directional splatter and fine line detail."
+    }
+  ]
+}

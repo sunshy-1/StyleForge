@@ -1,0 +1,116 @@
+{
+  "task_id": "megastyle_vintage_illustration_green_red",
+  "source_dataset": "tencent/MegaStyle-1.4M",
+  "source_root": "datasets/MegaStyle-1.4M",
+  "style_label": "vintage illustration green red",
+  "style_prompt": "In the style of vintage illustration, cream with muted greens and soft reds in balanced distribution, even light, printed medium, flat with subtle grain texture, clean lines and uniform stroke width.",
+  "sample_count": 8,
+  "source_indices": [
+    96,
+    97,
+    98,
+    99,
+    100,
+    101,
+    102,
+    103
+  ],
+  "samples": [
+    {
+      "ordinal": 0,
+      "file": "target_images/00.jpg",
+      "source_file": "train-00000.parquet",
+      "source_row_group": 0,
+      "source_row_offset": 96,
+      "global_index": 96,
+      "id": "s47022_c113656",
+      "source_image_path": "s47022_c113656.jpg",
+      "content": "Man holds guitar behind woman at table",
+      "style": "In the style of vintage illustration, cream with muted greens and soft reds in balanced distribution, even light, printed medium, flat with subtle grain texture, clean lines and uniform stroke width."
+    },
+    {
+      "ordinal": 1,
+      "file": "target_images/01.jpg",
+      "source_file": "train-00000.parquet",
+      "source_row_group": 0,
+      "source_row_offset": 97,
+      "global_index": 97,
+      "id": "s47022_c313068",
+      "source_image_path": "s47022_c313068.jpg",
+      "content": "Building with domes and clock tower",
+      "style": "In the style of vintage illustration, cream with muted greens and soft reds in balanced distribution, even light, printed medium, flat with subtle grain texture, clean lines and uniform stroke width."
+    },
+    {
+      "ordinal": 2,
+      "file": "target_images/02.jpg",
+      "source_file": "train-00000.parquet",
+      "source_row_group": 0,
+      "source_row_offset": 98,
+      "global_index": 98,
+      "id": "s47022_c237764",
+      "source_image_path": "s47022_c237764.jpg",
+      "content": "Superheroes kiss amid cartoon animals",
+      "style": "In the style of vintage illustration, cream with muted greens and soft reds in balanced distribution, even light, printed medium, flat with subtle grain texture, clean lines and uniform stroke width."
+    },
+    {
+      "ordinal": 3,
+      "file": "target_images/03.jpg",
+      "source_file": "train-00000.parquet",
+      "source_row_group": 0,
+      "source_row_offset": 99,
+      "global_index": 99,
+      "id": "s47022_c173459",
+      "source_image_path": "s47022_c173459.jpg",
+      "content": "Fishing boat with crane framed center",
+      "style": "In the style of vintage illustration, cream with muted greens and soft reds in balanced distribution, even light, printed medium, flat with subtle grain texture, clean lines and uniform stroke width."
+    },
+    {
+      "ordinal": 4,
+      "file": "target_images/04.jpg",
+      "source_file": "train-00000.parquet",
+      "source_row_group": 1,
+      "source_row_offset": 0,
+      "global_index": 100,
+      "id": "s47022_c270981",
+      "source_image_path": "s47022_c270981.jpg",
+      "content": "Men gesture behind table in front of building",
+      "style": "In the style of vintage illustration, cream with muted greens and soft reds in balanced distribution, even light, printed medium, flat with subtle grain texture, clean lines and uniform stroke width."
+    },
+    {
+      "ordinal": 5,
+      "file": "target_images/05.jpg",
+      "source_file": "train-00000.parquet",
+      "source_row_group": 1,
+      "source_row_offset": 1,
+      "global_index": 101,
+      "id": "s47022_c275686",
+      "source_image_path": "s47022_c275686.jpg",
+      "content": "Person stands beside carved bird tree trunk",
+      "style": "In the style of vintage illustration, cream with muted greens and soft reds in balanced distribution, even light, printed medium, flat with subtle grain texture, clean lines and uniform stroke width."
+    },
+    {
+      "ordinal": 6,
+      "file": "target_images/06.jpg",
+      "source_file": "train-00000.parquet",
+      "source_row_group": 1,
+      "source_row_offset": 2,
+      "global_index": 102,
+      "id": "s47022_c215492",
+      "source_image_path": "s47022_c215492.jpg",
+      "content": "Person crouches operating camera facing stars",
+      "style": "In the style of vintage illustration, cream with muted greens and soft reds in balanced distribution, even light, printed medium, flat with subtle grain texture, clean lines and uniform stroke width."
+    },
+    {
+      "ordinal": 7,
+      "file": "target_images/07.jpg",
+      "source_file": "train-00000.parquet",
+      "source_row_group": 1,
+      "source_row_offset": 3,
+      "global_index": 103,
+      "id": "s47022_c123771",
+      "source_image_path": "s47022_c123771.jpg",
+      "content": "Face centered obscured by swirling forms",
+      "style": "In the style of vintage illustration, cream with muted greens and soft reds in balanced distribution, even light, printed medium, flat with subtle grain texture, clean lines and uniform stroke width."
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "task_id": "megastyle_surrealist_collage",
+  "source_dataset": "tencent/MegaStyle-1.4M",
+  "source_root": "datasets/MegaStyle-1.4M",
+  "style_label": "surrealist collage",
+  "style_prompt": "In the style of surrealist collage, dominant teal with earthy browns and ochres in layered distribution, balanced light, mixed media, textured with overlapping layers and matte surfaces, flat with sharp edges and minimal blending.",
+  "sample_count": 8,
+  "source_indices": [
+    848,
+    849,
+    850,
+    851,
+    852,
+    853,
+    854,
+    855
+  ],
+  "samples": [
+    {
+      "ordinal": 0,
+      "file": "target_images/00.jpg",
+      "source_file": "train-00000.parquet",
+      "source_row_group": 8,
+      "source_row_offset": 48,
+      "global_index": 848,
+      "id": "s68669_c159432",
+      "source_image_path": "s68669_c159432.jpg",
+      "content": "Person in plank stance on mat",
+      "style": "In the style of surrealist collage, dominant teal with earthy browns and ochres in layered distribution, balanced light, mixed media, textured with overlapping layers and matte surfaces, flat with sharp edges and minimal blending."
+    },
+    {
+      "ordinal": 1,
+      "file": "target_images/01.jpg",
+      "source_file": "train-00000.parquet",
+      "source_row_group": 8,
+      "source_row_offset": 49,
+      "global_index": 849,
+      "id": "s68669_c214820",
+      "source_image_path": "s68669_c214820.jpg",
+      "content": "Seals rest on gravel near snow mountains",
+      "style": "In the style of surrealist collage, dominant teal with earthy browns and ochres in layered distribution, balanced light, mixed media, textured with overlapping layers and matte surfaces, flat with sharp edges and minimal blending."
+    },
+    {
+      "ordinal": 2,
+      "file": "target_images/02.jpg",
+      "source_file": "train-00000.parquet",
+      "source_row_group": 8,
+      "source_row_offset": 50,
+      "global_index": 850,
+      "id": "s68669_c48706",
+      "source_image_path": "s68669_c48706.jpg",
+      "content": "Sharks swim near surface island background",
+      "style": "In the style of surrealist collage, dominant teal with earthy browns and ochres in layered distribution, balanced light, mixed media, textured with overlapping layers and matte surfaces, flat with sharp edges and minimal blending."
+    },
+    {
+      "ordinal": 3,
+      "file": "target_images/03.jpg",
+      "source_file": "train-00000.parquet",
+      "source_row_group": 8,
+      "source_row_offset": 51,
+      "global_index": 851,
+      "id": "s68669_c374308",
+      "source_image_path": "s68669_c374308.jpg",
+      "content": "Statue on left figures right stone base",
+      "style": "In the style of surrealist collage, dominant teal with earthy browns and ochres in layered distribution, balanced light, mixed media, textured with overlapping layers and matte surfaces, flat with sharp edges and minimal blending."
+    },
+    {
+      "ordinal": 4,
+      "file": "target_images/04.jpg",
+      "source_file": "train-00000.parquet",
+      "source_row_group": 8,
+      "source_row_offset": 52,
+      "global_index": 852,
+      "id": "s68669_c117614",
+      "source_image_path": "s68669_c117614.jpg",
+      "content": "Sheep graze field hills cloudy sky",
+      "style": "In the style of surrealist collage, dominant teal with earthy browns and ochres in layered distribution, balanced light, mixed media, textured with overlapping layers and matte surfaces, flat with sharp edges and minimal blending."
+    },
+    {
+      "ordinal": 5,
+      "file": "target_images/05.jpg",
+      "source_file": "train-00000.parquet",
+      "source_row_group": 8,
+      "source_row_offset": 53,
+      "global_index": 853,
+      "id": "s68669_c387190",
+      "source_image_path": "s68669_c387190.jpg",
+      "content": "Figures interact mid-action with soccer basketball",
+      "style": "In the style of surrealist collage, dominant teal with earthy browns and ochres in layered distribution, balanced light, mixed media, textured with overlapping layers and matte surfaces, flat with sharp edges and minimal blending."
+    },
+    {
+      "ordinal": 6,
+      "file": "target_images/06.jpg",
+      "source_file": "train-00000.parquet",
+      "source_row_group": 8,
+      "source_row_offset": 54,
+      "global_index": 854,
+      "id": "s68669_c370022",
+      "source_image_path": "s68669_c370022.jpg",
+      "content": "Woman lifts dress revealing leg plant background",
+      "style": "In the style of surrealist collage, dominant teal with earthy browns and ochres in layered distribution, balanced light, mixed media, textured with overlapping layers and matte surfaces, flat with sharp edges and minimal blending."
+    },
+    {
+      "ordinal": 7,
+      "file": "target_images/07.jpg",
+      "source_file": "train-00000.parquet",
+      "source_row_group": 8,
+      "source_row_offset": 55,
+      "global_index": 855,
+      "id": "s68669_c65074",
+      "source_image_path": "s68669_c65074.jpg",
+      "content": "Person on vehicle roof captures landscape",
+      "style": "In the style of surrealist collage, dominant teal with earthy browns and ochres in layered distribution, balanced light, mixed media, textured with overlapping layers and matte surfaces, flat with sharp edges and minimal blending."
+    }
+  ]
+}
