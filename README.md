@@ -47,3 +47,44 @@ NumPy==1.26.4
 Both environments include CUDA 12.8 runtime packages. For complete package
 versions, see the two environment snapshots in [requirements.txt](requirements.txt).
 These snapshots are not a `pip install -r` requirements file.
+
+## Code Structure
+
+```text
+StyleForge/
+├── configs/                         # Pipeline settings and content prompts
+│   ├── default.json                 # StyleForge backend and generation settings
+│   ├── content_prompts.json         # Prompts shared across generation methods
+│   └── run.env                      # Defaults for generation launchers
+├── data/styles/                    # Bundled reference-style images and metadata
+├── models/                         # Placeholders for local FLUX, VLM, and CLIP weights
+├── styleforge/                     # Core StyleForge implementation
+│   ├── vlm_client.py               # Reference-image VLM requests and responses
+│   ├── style_schema.py             # Style schema and prompt compilation
+│   └── flux2_generator.py          # Local FLUX.2-Klein generation backend
+├── scripts/                        # StyleForge workflow stages and runtime helpers
+│   ├── extract_style.py            # Extract style contracts from references
+│   ├── compile_style.py            # Compile contracts into reusable prompts
+│   └── generate_method.py          # Generate images from compiled prompts
+├── training_free_baselines/        # DSE and RCG implementations
+│   └── run_baselines.py
+├── training_based_baselines/       # Vanilla-SFT, PSO, and D-OPSD training code
+│   ├── Vanilla-SFT/
+│   ├── PSO/
+│   ├── D-OPSD/
+│   ├── generate_flux.py            # Generate images from trained LoRAs
+│   └── checkpoints/                # Checkpoint placeholders; weights are not tracked
+├── evaluation/                     # Metrics and SGLang-based VLM judging
+│   ├── metrics.py                  # Aggregate the paper's evaluation metrics
+│   ├── judge_service.sh            # Start and stop local SGLang judges
+│   └── qwen_pairwise_win_rate.py   # Pairwise image comparison
+├── fig/                            # README figures
+├── outputs/                        # Generated images and evaluation results
+├── run_styleforge.sh               # Run StyleForge extraction and generation
+├── run_training_free_baselines.sh  # Run DSE and RCG generation
+├── run_training_based_train.sh     # Train Vanilla-SFT, PSO, and D-OPSD
+├── run_training_based_generate.sh  # Generate from trained checkpoints
+├── run_eval.sh                     # Run CLIP metrics and SGLang VLM judges
+├── requirements.txt                # Generation and evaluation environment snapshots
+└── README.md                       # Main project documentation
+```
