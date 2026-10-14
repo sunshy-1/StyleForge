@@ -6,6 +6,8 @@ runs/
 figures/
 outputs/*
 !outputs/.gitkeep
+!outputs/styleforge_final_style_prompts_4B.md
+!outputs/styleforge_final_style_prompts_9B.md
 checkpoint/
 data/flux_training/
 *.png

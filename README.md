@@ -80,7 +80,7 @@ StyleForge/
 │   │   ├── metrics.py                    # Aggregate the paper's evaluation metrics
 │   │   ├── judge_service.sh              # Start and stop local SGLang judges
 │   │   └── qwen_pairwise_win_rate.py     # Pairwise image comparison
-│   ├── outputs/                          # Generated images and evaluation results
+│   ├── outputs/                          # Style prompts, generated images, and evaluation results
 │   ├── run_styleforge.sh                 # 🚀 Run here: Run StyleForge extraction and generation
 │   ├── run_training_free_baselines.sh    # 🚀 Run here: Run DSE and RCG generation
 │   ├── run_training_based_train.sh       # 🚀 Run here: Train Vanilla-SFT, PSO, and D-OPSD
@@ -131,6 +131,10 @@ Switch to the SGLang evaluation environment, then run from `code/`:
 ```bash
 bash run_eval.sh
 ```
+
+For the final style prompts obtained by StyleForge, see
+[4B](code/outputs/styleforge_final_style_prompts_4B.md) and
+[9B](code/outputs/styleforge_final_style_prompts_9B.md).
 
 ## Acknowledgment of Open-Source Code Contributions
 
