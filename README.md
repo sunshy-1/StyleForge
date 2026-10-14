@@ -4,7 +4,7 @@
 <img src="https://img.shields.io/badge/license-MIT-9ACD32" alt="license"/>
 <a href="https://arxiv.org/abs/2610.05066"><img src="https://img.shields.io/badge/Preprint'26-EE4C2C" alt="preprint"/></a>
 <a href="https://pytorch.org/"><img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white" alt="PyTorch"/></a>
-<img src="https://img.shields.io/github/stars/sunshy-1/JuDi?style=social" alt="stars"/>
+<img src="https://img.shields.io/github/stars/sunshy-1/StyleForge?style=social" alt="stars"/>
 </div>
 
 <br/>
